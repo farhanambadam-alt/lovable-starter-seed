@@ -1,1 +1,1 @@
-# lovable-starter-seed
+# initial-space-prep
